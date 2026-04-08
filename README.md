@@ -102,7 +102,7 @@ Run the executable:
 
 ## Downloading Input Distributions
 
-[Here]([https://drive.google.com/drive/folders/17jwDnhdhlL6CTP9mE2dC7aoKNJ81NfeF](https://drive.google.com/drive/folders/1i7lTrf07KWigK2hqKTOijAkwcVAC9-Zy?usp=sharing)) you can find (almost) optimal input distributions for  C_{29,k} and C_{31,k}.
+[Here](https://drive.google.com/drive/folders/1i7lTrf07KWigK2hqKTOijAkwcVAC9-Zy?usp=sharing) you can find (almost) optimal input distributions for  C_{29,k} and C_{31,k}.
 
 Note that the distribution files for C_{31,k} are large (approximately **11 GB** each).
 
